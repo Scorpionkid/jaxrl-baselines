@@ -231,3 +231,6 @@ outputs/
 multirun/
 
 brax-blines/configs/*.json
+gymnax-blines/agents/
+gymnax-blines/configs/
+gymnax-blines/utils.py
